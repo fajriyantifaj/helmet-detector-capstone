@@ -6,6 +6,6 @@ The main objective of this project is to ensure compliance with helmet-wearing r
 
 The Helmet Detector for Motorcycle and Bicycle Riders is designed to be efficient, providing a balance between speed and accuracy. It has been trained on diverse datasets, enabling it to handle different helmet types, sizes, and orientations effectively.
 
-This project provides pre-trained weights and scripts for helmet detection in images and videos. It offers customization options to adapt the detector to specific needs, such as distinguishing between motorcycle and bicycle helmets or incorporating additional safety gear detection.
+This project provides pre-trained weights and scripts for helmet detection in images. It offers customization options to adapt the detector to specific needs, such as distinguishing between motorcycle and bicycle helmets or incorporating additional safety gear detection.
 
 By integrating the Helmet Detector for Motorcycle and Bicycle Riders into existing systems or applications, we can contribute to creating a safer riding environment, reducing the risk of head injuries, and promoting responsible riding habits. Let's prioritize rider safety and make helmet-wearing a standard practice for motorcycle and bicycle riders.
